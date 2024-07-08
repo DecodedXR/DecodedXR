@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @DecodedXR
-- 👀 I’m interested in learning more about Web Development/Game Design/AI as a high school senior.
+- 👀 I’m interested in learning more about Web Development/Game Design/AI/VR as a high school senior.
 - 🌱 I’m currently learning C# Development and basic data structures and algorithms.
 - 📫 How to reach me: decodedpc@gmail.com
 - 😄 Pronouns: he/him
