@@ -9,4 +9,4 @@ I enjoy abusing AI chatbots as a hobby.
 - **GAINS** — AI NPC behavior research in Unreal Engine 5, presented at Purdue's Research Expos
 
 #### Reach me
-🌐 [noah.dev](https://noah.dev) · 📫 decodedpc@gmail.com · he/him
+🌐 [decodedxr.github.io](https://decodedxr.github.io) · 📫 decodedpc@gmail.com · he/him
