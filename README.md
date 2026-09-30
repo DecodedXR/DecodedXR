@@ -6,6 +6,8 @@ I enjoy abusing AI chatbots as a hobby.
 - **[LiveDepthField](https://github.com/DecodedXR/LiveDepthField)** - turn a webcam or photo into an explorable 3D point cloud, entirely in the browser
 - **[SoloLeveling](https://github.com/DecodedXR/SoloLeveling)** *(work in progress)* - an iOS fitness RPG where the camera is the referee and XP can't be faked
 - **LofiFocus** *(work in progress)* - a gamified focus app: Pomodoro timer + lofi music and cozy animated scenes, with streaks, an embers economy, and journaling
+- **[Word Bomb](https://github.com/DecodedXR/word-bomb)** - a Jackbox-style online party game in pygame + websockets: type a word with the prompt before the fuse blows. Playable in the browser
+- **DecoBot** - a Discord bot for my friends' server that turns everyone's class schedules into pingable class roles, running 24/7 on Google Cloud
 - **GAINS** - AI NPC behavior research in Unreal Engine 5, presented at Purdue's Research Expos
 
 #### Reach me
